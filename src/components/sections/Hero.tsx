@@ -64,7 +64,7 @@ export function Hero() {
           <div className="flex justify-center md:justify-end">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-2 border-cyan-muted shadow-xl">
               <Image
-                src="/images/profile.webp"
+                src="/images/profile.png"
                 alt={siteConfig.name}
                 fill
                 sizes="(max-width: 768px) 50vw, 33vw"
